@@ -50,6 +50,13 @@
 - [x] Create client portfolio summary reports
 
 ## 📅 Calendar & Reminders
+This was partially done, Lovable said:
+
+I'll implement the calendar view and deadline tracking system, leaving external integrations for later.
+Let me check the current database structure and then build the calendar features.
+
+So later ask what is left from this Calender to do
+
 - [ ] Create calendar view for important dates
 - [ ] Add deadline reminders for annual returns
 - [ ] Add deadline reminders for tax service due dates
