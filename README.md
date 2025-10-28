@@ -42,12 +42,12 @@
 - [x] Implement admin alerts for new client registrations
 
 ## 📊 Reporting & Export
-- [ ] Create PDF export for company details
-- [ ] Create PDF export for IP portfolio
-- [ ] Create PDF export for tax service records
-- [ ] Add Excel export for admin reports
-- [ ] Generate annual company reports
-- [ ] Create client portfolio summary reports
+- [x] Create PDF export for company details
+- [x] Create PDF export for IP portfolio
+- [x] Create PDF export for tax service records
+- [x] Add Excel export for admin reports
+- [x] Generate annual company reports
+- [x] Create client portfolio summary reports
 
 ## 📅 Calendar & Reminders
 - [ ] Create calendar view for important dates
