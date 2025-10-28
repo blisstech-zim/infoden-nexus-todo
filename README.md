@@ -35,11 +35,11 @@
 - [x] Add file type validation and size limits
 
 ## 📧 Notifications & Communication
-- [ ] Implement email notifications for new applications
-- [ ] Add email reminders for upcoming deadlines (annual returns, tax due dates)
-- [ ] Create in-app notification system
-- [ ] Add notification preferences for users
-- [ ] Implement admin alerts for new client registrations
+- [x] Implement email notifications for new applications
+- [x] Add email reminders for upcoming deadlines (annual returns, tax due dates)
+- [x] Create in-app notification system
+- [x] Add notification preferences for users
+- [x] Implement admin alerts for new client registrations
 
 ## 📊 Reporting & Export
 - [ ] Create PDF export for company details
