@@ -27,12 +27,12 @@
 - [ ] Create client detail view page with full history
 
 ## 📁 File Management & Storage
-- [ ] Set up file storage buckets for document uploads
-- [ ] Add document upload for companies (incorporation docs, certificates)
-- [ ] Add document upload for IP applications (trademark logos, patent documents)
-- [ ] Add document upload for tax services (receipts, invoices)
-- [ ] Create document viewer/download functionality
-- [ ] Add file type validation and size limits
+- [x] Set up file storage buckets for document uploads
+- [x] Add document upload for companies (incorporation docs, certificates)
+- [x] Add document upload for IP applications (trademark logos, patent documents)
+- [x] Add document upload for tax services (receipts, invoices)
+- [x] Create document viewer/download functionality
+- [x] Add file type validation and size limits
 
 ## 📧 Notifications & Communication
 - [ ] Implement email notifications for new applications
