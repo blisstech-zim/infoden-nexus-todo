@@ -14,11 +14,11 @@
 - [x] Add sorting options (date, name, status) for all lists
 
 ## 📄 Pagination & Performance
-- [ ] Add pagination to Company List
-- [ ] Add pagination to IP Application List
-- [ ] Add pagination to Tax Service List
-- [ ] Add pagination to Client List
-- [ ] Implement "load more" or infinite scroll option
+- [x] Add pagination to Company List
+- [x] Add pagination to IP Application List
+- [x] Add pagination to Tax Service List
+- [x] Add pagination to Client List
+- [x] Implement "load more" or infinite scroll option
 
 ## 👥 Client Management Enhancements
 - [ ] Add ability to edit client information (admin)
