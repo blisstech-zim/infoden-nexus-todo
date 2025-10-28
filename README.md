@@ -1,5 +1,5 @@
 ## 📊 Dashboard & Statistics
-- [ x ] Implement dynamic statistics cards (show real counts for companies, IP applications, tax services, clients)
+- [x] Implement dynamic statistics cards (show real counts for companies, IP applications, tax services, clients)
 - [ ] Add recent activity feed with real data from database
 - [ ] Create dashboard charts and visualizations (company growth, IP status breakdown, tax service timeline)
 
