@@ -4,14 +4,14 @@
 - [x] Create dashboard charts and visualizations (company growth, IP status breakdown, tax service timeline)
 
 ## 🔍 Search & Filtering
-- [ ] Add search functionality to Company List (admin & client)
-- [ ] Add search functionality to IP Application List (admin & client)
-- [ ] Add search functionality to Tax Service List (admin & client)
-- [ ] Add search functionality to Client List (admin only)
-- [ ] Implement filtering by status for IP applications
-- [ ] Implement filtering by status for tax services
-- [ ] Implement filtering by company type
-- [ ] Add sorting options (date, name, status) for all lists
+- [x] Add search functionality to Company List (admin & client)
+- [x] Add search functionality to IP Application List (admin & client)
+- [x] Add search functionality to Tax Service List (admin & client)
+- [x] Add search functionality to Client List (admin only)
+- [x] Implement filtering by status for IP applications
+- [x] Implement filtering by status for tax services
+- [x] Implement filtering by company type
+- [x] Add sorting options (date, name, status) for all lists
 
 ## 📄 Pagination & Performance
 - [ ] Add pagination to Company List
