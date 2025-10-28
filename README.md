@@ -1,4 +1,3 @@
-```markdown
 ## 📊 Dashboard & Statistics
 - [ ] Implement dynamic statistics cards (show real counts for companies, IP applications, tax services, clients)
 - [ ] Add recent activity feed with real data from database
@@ -110,4 +109,3 @@
 3. Follow with **File Management** for practical document handling
 4. Add **Notifications** for better user engagement
 5. Finally, implement **Reporting** and other advanced features
-```
