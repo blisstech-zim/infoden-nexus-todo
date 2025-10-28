@@ -1,2 +1,113 @@
-# infoden-nexus-todo
-Whats left to do
+```markdown
+## 📊 Dashboard & Statistics
+- [ ] Implement dynamic statistics cards (show real counts for companies, IP applications, tax services, clients)
+- [ ] Add recent activity feed with real data from database
+- [ ] Create dashboard charts and visualizations (company growth, IP status breakdown, tax service timeline)
+
+## 🔍 Search & Filtering
+- [ ] Add search functionality to Company List (admin & client)
+- [ ] Add search functionality to IP Application List (admin & client)
+- [ ] Add search functionality to Tax Service List (admin & client)
+- [ ] Add search functionality to Client List (admin only)
+- [ ] Implement filtering by status for IP applications
+- [ ] Implement filtering by status for tax services
+- [ ] Implement filtering by company type
+- [ ] Add sorting options (date, name, status) for all lists
+
+## 📄 Pagination & Performance
+- [ ] Add pagination to Company List
+- [ ] Add pagination to IP Application List
+- [ ] Add pagination to Tax Service List
+- [ ] Add pagination to Client List
+- [ ] Implement "load more" or infinite scroll option
+
+## 👥 Client Management Enhancements
+- [ ] Add ability to edit client information (admin)
+- [ ] Add role assignment UI (promote client to staff, assign admin)
+- [ ] Add client status management (active/inactive)
+- [ ] Create client detail view page with full history
+
+## 📁 File Management & Storage
+- [ ] Set up file storage buckets for document uploads
+- [ ] Add document upload for companies (incorporation docs, certificates)
+- [ ] Add document upload for IP applications (trademark logos, patent documents)
+- [ ] Add document upload for tax services (receipts, invoices)
+- [ ] Create document viewer/download functionality
+- [ ] Add file type validation and size limits
+
+## 📧 Notifications & Communication
+- [ ] Implement email notifications for new applications
+- [ ] Add email reminders for upcoming deadlines (annual returns, tax due dates)
+- [ ] Create in-app notification system
+- [ ] Add notification preferences for users
+- [ ] Implement admin alerts for new client registrations
+
+## 📊 Reporting & Export
+- [ ] Create PDF export for company details
+- [ ] Create PDF export for IP portfolio
+- [ ] Create PDF export for tax service records
+- [ ] Add Excel export for admin reports
+- [ ] Generate annual company reports
+- [ ] Create client portfolio summary reports
+
+## 📅 Calendar & Reminders
+- [ ] Create calendar view for important dates
+- [ ] Add deadline reminders for annual returns
+- [ ] Add deadline reminders for tax service due dates
+- [ ] Implement IP renewal date tracking
+- [ ] Add calendar integration (Google Calendar, Outlook)
+
+## 💰 Invoicing & Payments (Optional)
+- [ ] Create invoice generation system
+- [ ] Add payment tracking for services
+- [ ] Implement payment status (paid, pending, overdue)
+- [ ] Add payment history view
+
+## 👤 User Profile & Settings
+- [ ] Create user profile edit page
+- [ ] Add profile picture upload
+- [ ] Implement password change functionality
+- [ ] Add email change with verification
+- [ ] Create user preferences/settings page
+
+## 🔐 Authentication Enhancements
+- [ ] Add password reset functionality (forgot password UI)
+- [ ] Implement email verification flow
+- [ ] Add "remember me" option on login
+- [ ] Create session management (view active sessions, logout from all devices)
+
+## 📱 Mobile Optimization
+- [ ] Optimize all forms for mobile devices
+- [ ] Improve responsive design for dashboard layouts
+- [ ] Add mobile-friendly navigation menu
+- [ ] Optimize tables for mobile viewing (cards or accordion view)
+
+## 🎨 UI/UX Enhancements
+- [ ] Add loading skeletons for all data fetching
+- [ ] Improve error handling with user-friendly messages
+- [ ] Add empty states with helpful actions
+- [ ] Implement confirmation dialogs for all delete actions
+- [ ] Add success animations after form submissions
+- [ ] Create onboarding tour for new users
+
+## 🔔 Activity & Audit Trail
+- [ ] Implement activity log for all user actions
+- [ ] Create audit trail for admin actions
+- [ ] Add "last modified by" information to records
+- [ ] Create activity timeline view
+
+## 🌐 Multi-tenancy & Permissions
+- [ ] Implement granular permissions system
+- [ ] Add company-level access control (multiple users per company)
+- [ ] Create team collaboration features
+- [ ] Add role-based dashboard customization
+
+---
+
+**Priority Recommendations:**
+1. Start with **Dynamic Statistics** and **Search/Filtering** for immediate usability improvements
+2. Then add **Pagination** for performance
+3. Follow with **File Management** for practical document handling
+4. Add **Notifications** for better user engagement
+5. Finally, implement **Reporting** and other advanced features
+```
