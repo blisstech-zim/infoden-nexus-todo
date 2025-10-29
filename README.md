@@ -21,10 +21,10 @@
 - [x] Implement "load more" or infinite scroll option
 
 ## 👥 Client Management Enhancements
-- [ ] Add ability to edit client information (admin)
-- [ ] Add role assignment UI (promote client to staff, assign admin)
-- [ ] Add client status management (active/inactive)
-- [ ] Create client detail view page with full history
+- [x] Add ability to edit client information (admin)
+- [x] Add role assignment UI (promote client to staff, assign admin)
+- [x] Add client status management (active/inactive)
+- [x] Create client detail view page with full history
 
 ## 📁 File Management & Storage
 - [x] Set up file storage buckets for document uploads
