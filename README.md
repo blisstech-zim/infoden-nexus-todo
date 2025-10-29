@@ -70,11 +70,11 @@ So later ask what is left from this Calender to do
 - [ ] Add payment history view
 
 ## 👤 User Profile & Settings
-- [ ] Create user profile edit page
-- [ ] Add profile picture upload
-- [ ] Implement password change functionality
-- [ ] Add email change with verification
-- [ ] Create user preferences/settings page
+- [x] Create user profile edit page
+- [x] Add profile picture upload
+- [x] Implement password change functionality
+- [x] Add email change with verification
+- [x] Create user preferences/settings page
 
 ## 🔐 Authentication Enhancements
 - [x] Add password reset functionality (forgot password UI)
