@@ -77,10 +77,10 @@ So later ask what is left from this Calender to do
 - [ ] Create user preferences/settings page
 
 ## 🔐 Authentication Enhancements
-- [ ] Add password reset functionality (forgot password UI)
-- [ ] Implement email verification flow
-- [ ] Add "remember me" option on login
-- [ ] Create session management (view active sessions, logout from all devices)
+- [x] Add password reset functionality (forgot password UI)
+- [x] Implement email verification flow
+- [x] Add "remember me" option on login
+- [x] Create session management (view active sessions, logout from all devices)
 
 ## 📱 Mobile Optimization
 - [ ] Optimize all forms for mobile devices
